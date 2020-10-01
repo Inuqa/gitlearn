@@ -1,2 +1,2 @@
 name = input('enter name: ')
-print(f'hola {name} que tal')
+print(f"hi {name} what's up")
