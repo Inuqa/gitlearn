@@ -1,2 +1,3 @@
 name = input('enter name: ')
-print(f'hola {name} que tal')
+lastname = input('enter lastname: ')
+print(f'hola {name} {lastname} que tal')
